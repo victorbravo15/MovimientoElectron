@@ -1,0 +1,9 @@
+C:\Users\Víctor\Desktop\parabola\parabola\bin\Debug\parabola.exe.config
+C:\Users\Víctor\Desktop\parabola\parabola\obj\Debug\parabola.csprojResolveAssemblyReference.cache
+C:\Users\Víctor\Desktop\parabola\parabola\obj\Debug\parabola.Form1.resources
+C:\Users\Víctor\Desktop\parabola\parabola\obj\Debug\parabola.Properties.Resources.resources
+C:\Users\Víctor\Desktop\parabola\parabola\obj\Debug\parabola.csproj.GenerateResource.Cache
+C:\Users\Víctor\Desktop\parabola\parabola\bin\Debug\parabola.exe
+C:\Users\Víctor\Desktop\parabola\parabola\bin\Debug\parabola.pdb
+C:\Users\Víctor\Desktop\parabola\parabola\obj\Debug\parabola.exe
+C:\Users\Víctor\Desktop\parabola\parabola\obj\Debug\parabola.pdb
